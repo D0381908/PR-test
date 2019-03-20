@@ -6,7 +6,7 @@ package selab.myapp;
  */
 public class App {
   public String sayHello() {
-    String Hello = "Hello World!!!!!!";
+    String Hello = "Hello World!!!!!!@";
     return Hello;
   }
 }
